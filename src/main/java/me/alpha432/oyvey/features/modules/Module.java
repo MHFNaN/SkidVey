@@ -188,6 +188,7 @@ public class Module
         RENDER("Render"),
         MOVEMENT("Movement"),
         PLAYER("Player"),
+        SHITCODE("Shitcode"),
         CLIENT("Client");
 
         private final String name;
